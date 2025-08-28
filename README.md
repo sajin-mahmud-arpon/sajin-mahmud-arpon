@@ -3,7 +3,7 @@
 -->
 
 # 👋 Hi, I'm Sajin Mahmud Arpon
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-Click%20Here-419577?style=for-the-badge&logo=github)](https://sajin-mahmud-arpon.github.io/)
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-419577?style=for-the-badge&logo=github&logoColor=white)](https://sajin-mahmud-arpon.github.io/)
 
 🎓 I'm an undergraduate student in Computer Science and Engineering, deeply passionate about **data science**, **machine learning**, and **AI for social impact**. I love exploring how technical solutions can address real-world challenges—from misinformation to linguistic diversity.
 
