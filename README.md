@@ -26,7 +26,8 @@
 
 ## 🌐 Let's Connect
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/sajin-mahmud-arpon)
+- 📫 
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sajin-mahmud-arpon" target="_blank">Follow on LinkedIn</a>
 - 🧠 [GitHub Profile](https://github.com/sajin2002)
 
 ---
