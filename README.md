@@ -25,9 +25,9 @@
 
 ## 🌐 Let's Connect
 
-- 📫 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sajin-mahmud-arpon" target="_blank">Follow on LinkedIn</a>
-- 🧠 [GitHub Profile](https://github.com/sajin2002)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow_on_LinkedIn-419577?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sajin-mahmud-arpon)
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-F5AB41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajin-mahmud-arpon)
 
 ---
 
