@@ -1,10 +1,9 @@
-## Hi there 👋
-
 <!--
 **sajin2002/sajin2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hi, I'm Sajin Mahmud (sajin2002)
+# 👋 Hi, I'm Sajin Mahmud Arpon
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-Click%20Here-419577?style=for-the-badge&logo=github)](https://sajin-mahmud-arpon.github.io/)
 
 🎓 I'm an undergraduate student in Computer Science and Engineering, deeply passionate about **data science**, **machine learning**, and **AI for social impact**. I love exploring how technical solutions can address real-world challenges—from misinformation to linguistic diversity.
 
